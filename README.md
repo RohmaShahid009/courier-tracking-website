@@ -19,3 +19,6 @@ A web-based courier tracking system developed as an academic project. The applic
 
 ## Author
 Rohma Shahid
+## Project Screenshot
+
+![Home Page](Courier Tracking.png)
